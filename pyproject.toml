@@ -8,6 +8,7 @@ dependencies = [
     "ipywidgets>=8.1.5",
     "jupyterlab>=4.3.0",
     "matplotlib>=3.9.2",
+    "mypy-boto3-s3>=1.36.21",
     "one-api>=2.11.0",
     "rich>=13.9.4",
     "smbprotocol>=1.14.0",
