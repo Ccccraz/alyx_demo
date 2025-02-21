@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.9"
 dependencies = [
     "boto3-stubs>=1.36.24",
+    "faker>=36.1.1",
     "ipywidgets>=8.1.5",
     "jupyterlab>=4.3.0",
     "matplotlib>=3.9.2",
